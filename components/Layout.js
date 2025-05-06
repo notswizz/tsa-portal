@@ -6,7 +6,7 @@ export default function Layout({ children, title = 'The Smith Agency Portal' }) 
       <Head>
         <title>{title}</title>
         <meta name="description" content="The Smith Agency Portal for clients and staff" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
