@@ -1,0 +1,1 @@
+After pushing this clean branch, you should copy your actual project files back in, except for files that contained credentials.
